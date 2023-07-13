@@ -13,7 +13,6 @@ sigma = 0;
 %% Tampilan 
 fprintf('===============================\n');
 fprintf('        Metode Trapesium       \n');
-fprintf('           Kelompok 7          \n');
 fprintf('===============================\n');
 fprintf('i xi f(xi) \n');
 fprintf('%d %f %f \n' ,1,x,f(x))
