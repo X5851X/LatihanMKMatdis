@@ -4,7 +4,6 @@ close all;
 clc;
 fprintf('===============================\n');
 fprintf('        Metode Simpson 3/8       \n');
-fprintf('           Kelompok 10          \n');
 fprintf('===============================\n');
 
 f=inline('1/(2*x^4+4*x^2)');
